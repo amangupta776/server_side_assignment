@@ -1,7 +1,7 @@
 app_name = "server_side_assignment"
 app_title = "Server Side Assignment"
 app_publisher = "Aman"
-app_description = "Server Side Assignment"
+app_description = "Server Side Assignmnet"
 app_email = "a@g.c"
 app_license = "mit"
 # required_apps = []
