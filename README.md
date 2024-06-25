@@ -1,6 +1,6 @@
 ## Server Side Assignment
 
-Server Side Assignmnet
+server side asssignment
 
 #### License
 

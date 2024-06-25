@@ -3,7 +3,7 @@ name = "server_side_assignment"
 authors = [
     { name = "Aman", email = "a@g.c"}
 ]
-description = "Server Side Assignmnet"
+description = "server side asssignment"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
